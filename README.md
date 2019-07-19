@@ -6,3 +6,8 @@
 - 캐싱 프록시 서버
 
 - 에코 프록시 서버
+
+작성자 : 조경찬
+
+- 참고자료
+http://amritapnitc.blogspot.com/2015/07/simple-proxy-server-in-c-using-multi.html
